@@ -1,0 +1,23 @@
+{
+"name": "User Authentication",
+"short_name": "Login",
+"display": "standalone",
+"start_url": "/",
+"id": "/",
+"Orientation": "portrait_primary",
+"description": "Login using this application",
+"icons": [
+{
+"src": "assets/L1.jpg",
+"type": "image/jpg",
+"sizes": "512x512"
+},
+{
+"src": "assets/L2.jpg",
+"type": "image/jpg",
+"sizes": "128x128"
+}
+],
+"background_color": "#0000FF",
+"theme_color": "#0000CC"
+}
